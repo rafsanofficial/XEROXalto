@@ -1,0 +1,46 @@
+Alto I Firmware
+
+CTL RAM     82S126   PRAM.BIN  0AD4
+
+CTL
+            82S126   DP14.BIN  0966
+            82S23    CTR.BIN   07F8
+            82S126   00_23.BIN 0ACD
+                     01_23.BIN 0AE6
+                     02_23.BIN 0C67
+                     03_23.BIN 0504
+                     04_23.BIN 06DE
+                     05_23.BIN 0A63
+                     06_23.BIN 0754
+                     07_23.BIN 0669
+                     10_23.BIN 0C4C
+                     11_23.BIN 0AA3
+                     12_23.BIN 0C4F
+                     13_23.BIN 0554
+                     14_23.BIN 066D
+                     15_23.BIN 09BC
+                     16_23.BIN 07EE
+                     17_23.BIN 07E4
+                     20_23.BIN 0BC8
+                     21_23.BIN 0AC0
+                     22_23.BIN 0B50
+                     23_23.BIN 05C1
+                     24_23.BIN 069C
+                     25_23.BIN 08A2
+                     26_23.BIN 076C
+                     27_23.BIN 07EE
+                     30_23.BIN 0A4A
+                     31_23.BIN 0B35
+                     32_23.BIN 0C2B
+                     33_23.BIN 0664
+                     34_23.BIN 05CF
+                     35_23.BIN 07B9
+                     36_23.BIN 07A6
+                     37_23.BIN 0784
+
+MEMORY       82S126  C0_23.BIN 06BC
+                     C1_23.BIN 086C
+                     C2_23.BIN 079F
+                     C3_23.BIN 07BB
+                     MSE.BIN   0570
+                     
